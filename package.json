@@ -1,0 +1,23 @@
+{
+  "name": "mymarkdownapp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyXie123/myMarkDownApp.git"
+  },
+  "author": "Zhijie Xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyXie123/myMarkDownApp/issues"
+  },
+  "homepage": "https://github.com/JimmyXie123/myMarkDownApp#readme",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  }
+}
